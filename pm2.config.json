@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "myGridsomeSite",
+      "script": "npm",
+      "args": "develop"
+    }
+  ]
+}
