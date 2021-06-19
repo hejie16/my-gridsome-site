@@ -3,7 +3,7 @@
     {
       "name": "myGridsomeSite",
       "script": "npm",
-      "args": "start"
+      "args": "develop"
     }
   ]
 }
