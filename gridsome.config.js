@@ -6,6 +6,8 @@
 
 module.exports = {
   siteName: '我的博客',
+  host: "localhost",
+  port: 8080,
   plugins: [
     {
       use: '@gridsome/source-filesystem',
